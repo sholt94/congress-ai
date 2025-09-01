@@ -57,3 +57,19 @@ docs/_build/
 
 # Local things
 /dev/
+
+# Python virtual environments
+env/
+venv/
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Large data files (bills, zips, etc.)
+data/
+*.zip
+
+# Logs
+*.log
