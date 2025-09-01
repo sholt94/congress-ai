@@ -74,5 +74,3 @@ data/
 # Logs
 *.log
 
-# Env
-*.env
